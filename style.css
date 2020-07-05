@@ -1,0 +1,14 @@
+body {
+    background: #333;
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: #3fbb19;
+    font-family: 'Ubuntu', sans-serif;
+}
